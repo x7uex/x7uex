@@ -98,25 +98,6 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=x7uex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kareem's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x7uex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x7uex&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <sub>Designed with precision by <a href="https://github.com/x7uex">Kareem Ahmed</a> • Let's build something remarkable together.</sub>
 </div>
