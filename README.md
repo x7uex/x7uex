@@ -1,9 +1,6 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header Banner -->
-  <a href="https://github.com/x7uex">
-    Hi, I'm Kareem
-  </a>
+  <h1>Hi, I'm Kareem </h1>
 
   <p align="center">
     <strong>Full-Stack Software Engineer</strong> passionate about building resilient SaaS platforms, clean architectures, and high-performance applications.
