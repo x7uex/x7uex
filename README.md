@@ -19,17 +19,17 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🚀 Currently architecting **[GymFlow](https://github.com/x7uex/gymflow)** — a production-grade multi-tenant Gym Management SaaS with real-time attendance, digital proof-of-payment, and role-based portals.
-- 🛠️ Experienced in building full-stack web applications with **TypeScript, React, Node.js (Express), and C# (.NET Core Clean Architecture)**.
-- ⚡ Focused on clean code, database query optimization (PostgreSQL/Prisma), Redis caching, and async job queues (BullMQ).
-- 💬 Ask me about **Monorepos (Turborepo), State Management, RESTful APIs, and Multi-tenant DB isolation**.
-- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/kareem-ahmed-a01955296/) or [Email](mailto:kareemahmed1440@gmail.com).
+-  Currently architecting **[GymFlow](https://github.com/x7uex/gymflow)** — a production-grade multi-tenant Gym Management SaaS with real-time attendance, digital proof-of-payment, and role-based portals.
+-  Experienced in building full-stack web applications with **TypeScript, React, Node.js (Express), and C# (.NET Core Clean Architecture)**.
+-  Focused on clean code, database query optimization (PostgreSQL/Prisma), Redis caching, and async job queues (BullMQ).
+-  Ask me about **Monorepos (Turborepo), State Management, RESTful APIs, and Multi-tenant DB isolation**.
+-  Reach out via [LinkedIn](https://www.linkedin.com/in/kareem-ahmed-a01955296/) or [Email](mailto:kareemahmed1440@gmail.com).
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+###  Tech Stack & Tooling
 
 <table>
   <tr>
@@ -89,7 +89,7 @@
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
