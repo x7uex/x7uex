@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://github.com/x7uex">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Kareem+Ahmed;Full-Stack+Software+Engineer;Building+Scalable+Web+%26+Cloud+Systems;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+.NET" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+I'm+Kareem+Ahmed;Full-Stack+Software+Engineer;Building+Scalable+Web+%26+Cloud+Systems;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js" alt="Typing SVG" />
   </a>
 
   <p align="center">
