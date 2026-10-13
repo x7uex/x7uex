@@ -7,7 +7,7 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/kareem-ahmed-a01955296/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/kareem-morsi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:kareemahmed1440@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Location-Egypt-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
