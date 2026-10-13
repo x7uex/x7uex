@@ -16,13 +16,13 @@
 
 ---
 
-###  About Me
+### About Me
 
--  Currently architecting **[GymFlow](https://github.com/x7uex/gymflow)** — a production-grade multi-tenant Gym Management SaaS with real-time attendance, digital proof-of-payment, and role-based portals.
--  Experienced in building full-stack web applications with **TypeScript, React, Node.js (Express), and C# (.NET Core Clean Architecture)**.
--  Focused on clean code, database query optimization (PostgreSQL/Prisma), Redis caching, and async job queues (BullMQ).
--  Ask me about **Monorepos (Turborepo), State Management, RESTful APIs, and Multi-tenant DB isolation**.
--  Reach out via [LinkedIn](https://www.linkedin.com/in/kareem-ahmed-a01955296/) or [Email](mailto:kareemahmed1440@gmail.com).
+- Built & engineered **[GymFlow](https://github.com/x7uex/gymflow)** — a production-grade multi-tenant Gym Management SaaS with dynamic anti-screenshot QR check-ins, offline-first PWA architecture, and strict tenant isolation.
+- Experienced in engineering full-stack platforms with **TypeScript, React, Node.js (Express), and C# (.NET Core Clean Architecture)**.
+- Specialized in distributed system design, database query optimization (PostgreSQL/Prisma), Redis caching/rate-limiting, and resilient async queue processing (BullMQ).
+- Ask me about **Monorepos (Turborepo), Multi-tenant Security, Offline Sync (IndexedDB/Workbox), and RESTful API Architecture**.
+- Reach out via [LinkedIn](https://www.linkedin.com/in/kareem-ahmed-a01955296/) or [Email](mailto:kareemahmed1440@gmail.com).
 
 ---
 
@@ -90,7 +90,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[GymFlow](https://github.com/x7uex/gymflow)** | Production multi-tenant Gym & Fitness SaaS featuring dynamic QR check-ins, automated billing & proof of payments, offline PWA, and SuperAdmin tier management. | React 18 • Express • Prisma • Redis • Turborepo |
+| **[GymFlow](https://github.com/x7uex/gymflow)** | Flagship multi-tenant SaaS platform featuring cryptographic rolling QR check-ins (<100ms p99), offline-first PWA, proof-of-payment approval workflows, and strict tenant isolation. | React 18 • Express • Prisma • Redis • BullMQ • Turborepo |
 | **[SmartAttendanceSystem](https://github.com/x7uex/SmartAttendanceSystem)** | Fingerprint biometric attendance management solution built using Clean Architecture principles and modern security standards. | ASP.NET Core 9.0 • C# • Clean Architecture |
 
 ---
