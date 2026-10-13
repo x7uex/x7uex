@@ -19,7 +19,7 @@
 ### About Me
 
 - Built & engineered **[GymFlow](https://github.com/x7uex/gymflow)** — a production-grade multi-tenant Gym Management SaaS with dynamic anti-screenshot QR check-ins, offline-first PWA architecture, and strict tenant isolation.
-- Experienced in engineering full-stack platforms with **TypeScript, React, Node.js (Express), and C# (.NET Core Clean Architecture)**.
+- Experienced in engineering full-stack platforms with **TypeScript, React, Node.js (Express).
 - Specialized in distributed system design, database query optimization (PostgreSQL/Prisma), Redis caching/rate-limiting, and resilient async queue processing (BullMQ).
 - Ask me about **Monorepos (Turborepo), Multi-tenant Security, Offline Sync (IndexedDB/Workbox), and RESTful API Architecture**.
 - Reach out via [LinkedIn](https://www.linkedin.com/in/kareem-ahmed-a01955296/) or [Email](mailto:kareemahmed1440@gmail.com).
